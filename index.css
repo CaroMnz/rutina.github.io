@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
+
+.navbar{
+    font-family: 'Merriweather', serif;
+}
+
+.navbar-brand img{
+    margin-right: 10px;
+}
+
+.container img{
+    width: 30%;
+    margin-top: 20px;
+}
+
+h1{
+    color: black; 
+    font-family: 'Permanent Marker', cursive;
+    font-size-adjust: unset;
+    text-align: center;
+}
+
+h3{
+    color: black; 
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50%;
+    text-align: center;
+}
+
+p{
+    color: black; 
+    font-family: 'Kalam', cursive;
+    font-size: 150%;
+    margin: 2%;
+    text-align: center;
+}
+
+.cantidad{
+    font-weight: bold;
+}
+
+.grid{
+    display: flex;
+    flex-direction: row;
+}
+
+section{
+    margin-top: 2%;
+}
+
+iframe{
+    margin-left: 2%;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
+
+.navbar{
+    font-family: 'Merriweather', serif;
+}
+
+.navbar-brand img{
+    margin-right: 10px;
+}
+
+.container img{
+    width: 30%;
+    margin-top: 20px;
+}
+
+.col{
+    display: flex;
+    justify-content: center;
+}
+
+.col h1{
+    color: black; 
+    font-family: 'Permanent Marker', cursive;
+    font-size-adjust: unset;
+}
+
+.col p{
+    font-family: 'Kalam', cursive;
+    color: black;
+    font-size: 150%;
+    text-align: center;
+    width: 90%;
+    margin-top: 20px;
+}
